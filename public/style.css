@@ -25,15 +25,3 @@ img
 {
   max-width: 100%;
 }
-
-@media only screen and (max-width: 960px) {
-  .github-fork-ribbon
-  {
-    display: none;
-  }
-
-  #root
-  {
-    background: none !important;
-  }
-}
